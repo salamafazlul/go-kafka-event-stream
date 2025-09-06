@@ -1,0 +1,15 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/vendor/
+*.tar.gz
+*.gz
+
+# Docker
+*.log
+
+# Environment
+.env
